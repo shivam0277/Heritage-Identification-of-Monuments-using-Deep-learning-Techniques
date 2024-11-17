@@ -1,10 +1,8 @@
-# Landmark Recognition Web-App using Streamlit
+# Heritage Identification of Monuments using Deep learning Techniques
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/Jq9iVoir55g)
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/yt_thumb.jpg">
 
 ## Source
 - Trained model [`landmarks_classifier_asia_V1/1`](https://tfhub.dev/google/on_device_vision/classifier/landmarks_classifier_asia_V1/1) is taken from the Tensorflow-Hub
@@ -35,7 +33,3 @@
 
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
-## Screenshots
-
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s1.PNG">
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s2.PNG">
